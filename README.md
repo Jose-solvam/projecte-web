@@ -1,1 +1,2 @@
-#Projecte Web
+# Projecte Web
+Jose Socuéllamos
